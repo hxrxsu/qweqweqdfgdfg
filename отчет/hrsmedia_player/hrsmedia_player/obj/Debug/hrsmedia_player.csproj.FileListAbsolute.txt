@@ -1,0 +1,15 @@
+D:\hach\hrsmedia_player\hrsmedia_player\bin\Debug\hrsmedia_player.exe.config
+D:\hach\hrsmedia_player\hrsmedia_player\bin\Debug\hrsmedia_player.exe
+D:\hach\hrsmedia_player\hrsmedia_player\bin\Debug\hrsmedia_player.pdb
+D:\hach\hrsmedia_player\hrsmedia_player\bin\Debug\Interop.WMPLib.dll
+D:\hach\hrsmedia_player\hrsmedia_player\bin\Debug\AxInterop.WMPLib.dll
+D:\hach\hrsmedia_player\hrsmedia_player\obj\Debug\hrsmedia_player.csproj.AssemblyReference.cache
+D:\hach\hrsmedia_player\hrsmedia_player\obj\Debug\Interop.WMPLib.dll
+D:\hach\hrsmedia_player\hrsmedia_player\obj\Debug\AxInterop.WMPLib.dll
+D:\hach\hrsmedia_player\hrsmedia_player\obj\Debug\hrsmedia_player.csproj.ResolveComReference.cache
+D:\hach\hrsmedia_player\hrsmedia_player\obj\Debug\hrsmedia_player.Form1.resources
+D:\hach\hrsmedia_player\hrsmedia_player\obj\Debug\hrsmedia_player.Properties.Resources.resources
+D:\hach\hrsmedia_player\hrsmedia_player\obj\Debug\hrsmedia_player.csproj.GenerateResource.cache
+D:\hach\hrsmedia_player\hrsmedia_player\obj\Debug\hrsmedia_player.csproj.CoreCompileInputs.cache
+D:\hach\hrsmedia_player\hrsmedia_player\obj\Debug\hrsmedia_player.exe
+D:\hach\hrsmedia_player\hrsmedia_player\obj\Debug\hrsmedia_player.pdb
